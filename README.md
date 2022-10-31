@@ -16,7 +16,7 @@ sudo yum install git
 ```
 ```
 git config --global user.name "Your Name"
-gt config --global user.email "you@example.com"
+git config --global user.email "you@example.com"
 ```
 
 2. Clone project
